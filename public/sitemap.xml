@@ -3,15 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://eedude.com:80/blog/</loc>
-    <lastmod>2024-12-08T22:22:48+00:00</lastmod>
+    <lastmod>2024-12-08T17:32:13+00:00</lastmod>
   </url><url>
     <loc>http://eedude.com:80/</loc>
-    <lastmod>2024-12-08T22:22:48+00:00</lastmod>
+    <lastmod>2024-12-08T17:32:13+00:00</lastmod>
   </url><url>
-    <loc>http://eedude.com:80/my-new-post/</loc>
-    <lastmod>2024-12-08T22:22:48+00:00</lastmod>
-  </url><url>
-    <loc>http://eedude.com:80/posts/</loc>
-    <lastmod>2024-12-08T22:15:34+00:00</lastmod>
+    <loc>http://eedude.com:80/my-first-post-using-hugo/</loc>
+    <lastmod>2024-12-08T17:32:13+00:00</lastmod>
   </url>
 </urlset>

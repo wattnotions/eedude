@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Hugo ʕ•ᴥ•ʔ Bear Blog</title>
+    <title>Blogs on Huuugo ʕ•ᴥ•ʔ Bear Blog</title>
     <link>http://eedude.com:80/blog/</link>
-    <description>Recent content in Blogs on Hugo ʕ•ᴥ•ʔ Bear Blog</description>
+    <description>Recent content in Blogs on Huuugo ʕ•ᴥ•ʔ Bear Blog</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>Copyright © 2020, Jane Doe.</copyright>
-    <lastBuildDate>Sun, 08 Dec 2024 22:22:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 17:32:13 +0000</lastBuildDate>
     <atom:link href="http://eedude.com:80/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My New Post</title>
-      <link>http://eedude.com:80/my-new-post/</link>
-      <pubDate>Sun, 08 Dec 2024 22:22:48 +0000</pubDate>
-      <guid>http://eedude.com:80/my-new-post/</guid>
-      <description>&lt;p&gt;This is a page about »My New Post«.&lt;/p&gt;</description>
+      <title>My first post using hugo!</title>
+      <link>http://eedude.com:80/my-first-post-using-hugo/</link>
+      <pubDate>Sun, 08 Dec 2024 17:32:13 +0000</pubDate>
+      <guid>http://eedude.com:80/my-first-post-using-hugo/</guid>
+      <description>&lt;h1 id=&#34;my-first-post-using-hugo&#34;&gt;My first post using hugo&lt;/h1&gt;&#xA;&lt;p&gt;A truly momentous occasion.&lt;/p&gt;&#xA;&lt;p&gt;This is my first time experimenting with markdown so I&amp;rsquo;m hoping this will be a useful recipe that makes it easy for me to make and maintain a minimalist blog site.&lt;/p&gt;&#xA;&lt;p&gt;Lets see where this goes.&lt;/p&gt;&#xA;&lt;p&gt;Here is a test list:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Thing 1&lt;/li&gt;&#xA;&lt;li&gt;Thing 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;This is an image upload test:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;image-20241208172319453.png&#34; alt=&#34;image-20241208172319453&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
