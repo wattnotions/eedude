@@ -1,0 +1,1 @@
+sudo hugo server --source ./exampleSite --themesDir ../.. --bind=0.0.0.0 --port=80 --buildDrafts
