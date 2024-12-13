@@ -1,3 +1,11 @@
++++
+title = "My first post using hugo!"
+date = "2024-12-08T17:32:13Z"
+tags = [thoughts]
++++
+
+
+
 ## Thoughts on making a remote surf monitoring camera
 
 ![image-20241213190010536](image-20241213190010536.png)
