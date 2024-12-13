@@ -1,12 +1,11 @@
 +++
-title = "My first post using hugo!"
-date = "2024-12-13T17:32:13Z"
-tags = [thoughts]
+title = "Thoughts on making a remote surf monitoring camera"
+date = "2024-12-13T17:32:13Z" # Keep this for internal use
+display_date = "13-12-2024"   # Add this for Irish format display
+tags = ["thoughts"]
 +++
 
 
-
-## Thoughts on making a remote surf monitoring camera
 
 ![image-20241213190010536](image-20241213190010536.png)
 
