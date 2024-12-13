@@ -1,6 +1,6 @@
 +++
 title = "My first post using hugo!"
-date = "2024-12-08T17:32:13Z"
+date = "2024-12-13T17:32:13Z"
 tags = [thoughts]
 +++
 
