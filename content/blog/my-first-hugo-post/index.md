@@ -11,13 +11,11 @@ date = "2024-12-08T17:32:13Z"
 tags = []
 +++
 
-# My first post using hugo
 
 
+A truly momentous occasion. I can hardly believe it.
 
-A truly momentous occasion.
-
-
+Updated Line1
 
 This is my first time experimenting with markdown so I'm hoping this will be a useful recipe that makes it easy for me to make and maintain a minimalist blog site.
 
